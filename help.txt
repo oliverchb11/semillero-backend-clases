@@ -1,0 +1,6 @@
+JDK java development kit
+se usa para ejecutar java
+
+JRE java runtime enviroment
+
+JVM java virtual machine
